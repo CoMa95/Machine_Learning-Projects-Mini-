@@ -19,11 +19,16 @@ Contents:
     - Simple Decision Tree (for comparison), improved using PRE-prunning with GridSearch, or using POST-prunning with Cost-Complexity analysis;
     - Bagging techniques, each improved using GridSearch: 
         a. Bagging Classifier;
+        
         b. Random Forest CLassifier;
+        
     - Boosting techniques, each improved using GridSearch:
         a. Ada Boost
+        
         b. Gradient Boost
+        
         c. XGBoost
+        
     - Models evaluated using several accuracy metrics (Accuracy, Recall, Precision, F1 score, Cohen Kappa) and confusion matrices;
     - Coefficient analysis and Feature Importance extraction.
    
