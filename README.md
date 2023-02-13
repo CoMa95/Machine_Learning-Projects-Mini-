@@ -18,17 +18,17 @@ Contents:
 3. Classification(Bagging_Boosting)_Tourism used Ensemble techniques to classify the clients of a tourism company into those who would buy package holidays and those who wouldn't, for cost savings in advertisement. Features:
     - Simple Decision Tree (for comparison), improved using PRE-prunning with GridSearch, or using POST-prunning with Cost-Complexity analysis;
     - Bagging techniques, each improved using GridSearch: 
-        a. Bagging Classifier;
+    
+            a. Bagging Classifier;
         
-        b. Random Forest CLassifier;
-        
+            b. Random Forest CLassifier;   
     - Boosting techniques, each improved using GridSearch:
-        a. Ada Boost
+    
+            a. Ada Boost
         
-        b. Gradient Boost
+            b. Gradient Boost
         
-        c. XGBoost
-        
+            c. XGBoost    
     - Models evaluated using several accuracy metrics (Accuracy, Recall, Precision, F1 score, Cohen Kappa) and confusion matrices;
     - Coefficient analysis and Feature Importance extraction.
    
