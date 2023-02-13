@@ -13,4 +13,17 @@ Contents:
     - Decision Tree, improved using PRE-prunning and POST-prunning;
     - Several accuracy metrics: Accuracy, Recall, Precision, F1 score, Cohen kappa;
     - Confusion matrices;
-    - Feature importance extractor.
+    - Feature importance extraction.
+    
+   3. Classification(Bagging_Boosting)_Tourism used Ensemble techniques to classify the clients of a tourism company into those who would buy package holidays and those who wouldn't, for cost savings in advertisement. Features:
+    - Simple Decision Tree (for comparison), improved using PRE-prunning with GridSearch, or using POST-prunning with Cost-Complexity analysis;
+    - Bagging techniques, each improved using GridSearch: 
+        a. Bagging Classifier;
+        b. Random Forest CLassifier;
+    - Boosting techniques, each improved using GridSearch:
+        a. Ada Boost
+        b. Gradient Boost
+        c. XGBoost
+    - Models evaluated using several accuracy metrics (Accuracy, Recall, Precision, F1 score, Cohen Kappa) and confusion matrices;
+    - Coefficient analysis and Feature Importance extraction.
+   
