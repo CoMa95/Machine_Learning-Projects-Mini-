@@ -15,7 +15,7 @@ Contents:
     - Confusion matrices;
     - Feature importance extraction.
     
-   3. Classification(Bagging_Boosting)_Tourism used Ensemble techniques to classify the clients of a tourism company into those who would buy package holidays and those who wouldn't, for cost savings in advertisement. Features:
+3. Classification(Bagging_Boosting)_Tourism used Ensemble techniques to classify the clients of a tourism company into those who would buy package holidays and those who wouldn't, for cost savings in advertisement. Features:
     - Simple Decision Tree (for comparison), improved using PRE-prunning with GridSearch, or using POST-prunning with Cost-Complexity analysis;
     - Bagging techniques, each improved using GridSearch: 
         a. Bagging Classifier;
